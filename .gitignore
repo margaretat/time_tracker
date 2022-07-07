@@ -1,0 +1,9 @@
+.idea
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/*
+.idea/**
+.idea/gradle.xml
+.idea/workspace.xml
+.idea/**
